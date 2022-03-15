@@ -30,3 +30,6 @@
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jacksonborges/count.svg" /></p>
+
+
+![snake gif](https://github.com/jacksonborges/jacksonborges/blob/output/github-contribution-grid-snake.svg)
