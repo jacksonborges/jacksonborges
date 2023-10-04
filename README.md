@@ -29,7 +29,7 @@
 
  <div align="center">
     <a href = "mailto:jacksonb.santos@hotmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jackson-borges-dos-santos-416202153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/jackson-borges-416202153" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jacksonborges/count.svg" /></p>
