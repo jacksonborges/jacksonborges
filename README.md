@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Olá!!! Eu sou Jackson Borges seja, bem vindo!🖐️</h2>
+<h2> Olá!!! Eu sou Jackson Borges formando em analise e desenvolvimento de sistemas. Sejam, bem vindo!🖐️</h2>
 </div>
 </br>
 <div align="center">
