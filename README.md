@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Olá!!! Eu sou Jackson Borges formando em analise e desenvolvimento de sistemas. Sejam, bem vindo!🖐️</h2>
+<h2> Hello!!! I'm Jackson Borges majoring in systems analysis and development. Welcome!🖐️</h2>
 </div>
 </br>
 <div align="center">
