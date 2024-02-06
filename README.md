@@ -15,7 +15,7 @@
 </div>
 </br>
 <div align="center">
-  <h2>## 🔥 Skills</h2>
+  <h2>🔥 Skills</h2>
 </div>   
 <!-- Skills: Programming Languages -->
   <div align="center" style="flex-basis: 48%;">
