@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 </div>
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -37,6 +36,4 @@
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jacksonborges/count.svg" /></p>
-
-![snake gif](https://github.com/jacksonborges/jacksonborges/blob/output/github-contribution-grid-snake.svg)
 
