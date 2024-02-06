@@ -35,9 +35,8 @@
   <a href="https://www.linkedin.com/in/jackson-borges-416202153" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jacksonborges/count.svg" /></p>
-- Pacman    
-<div aling="center">
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jacksonborges/count.svg" /></p>   
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
