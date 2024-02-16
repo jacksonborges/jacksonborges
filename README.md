@@ -1,11 +1,11 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">  
-</div>
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World!!! I'm Jackson Borges majoring in systems analysis and development. Welcome!🖐️</h1></summary>
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">  
+</div>   
 </br>
 <div align="center">
   <div align="center">
